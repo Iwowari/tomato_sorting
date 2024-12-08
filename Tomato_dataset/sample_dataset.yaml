@@ -1,0 +1,12 @@
+path: "/kaggle/input/data-tomato/Data_tomatoes"
+
+train: "train/images"
+val: "val/images"
+
+nc: 4
+
+names: 
+  - 'Diseased'
+  - 'Ripe_tomatoes'
+  - 'Unripe_Tomatoes'
+  - 'Semi_Ripe'
